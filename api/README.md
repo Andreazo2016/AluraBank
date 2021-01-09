@@ -1,0 +1,1 @@
+## API que prover as negociações que são consumidas pela aplicação desenvolvida no curso.
